@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+pydantic
+
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-text-splitters
+
+chromadb
+fastembed
+pypdf
